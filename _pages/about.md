@@ -27,8 +27,98 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **Postdoctoral Fellow** in the [Molecular and Translational Oncology](https://www.igbmc.fr/) team at the **Institut de Génétique et de Biologie Moléculaire et Cellulaire (IGBMC)** in Illkirch, France, working under the supervision of [Prof. Gabriel Malouf](https://scholar.google.com/citations?user=...).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on leveraging **computational approaches** and **multi-omics integration** to understand cancer heterogeneity, predict treatment responses, and identify novel therapeutic targets. I am particularly interested in:
+
+- **Cancer subtyping** using multi-omics data integration
+- **Immunotherapy biomarkers** in renal cell carcinoma
+- **Tumor microenvironment** characterization
+- **Epigenetic regulation** of treatment resistance
+
+---
+
+## Research Highlights
+
+### Multi-Omics Cancer Subtyping
+
+I developed **[MOVICS](https://github.com/xlucpu/MOVICS)**, an R package for multi-omics integration and visualization in cancer subtyping. With **197 citations** and **144 GitHub stars**, MOVICS has become a widely-used tool in the cancer genomics community. The companion interactive platform **MOVICShiny** enables researchers to perform analyses without programming expertise.
+
+### Immunotherapy Resistance in Kidney Cancer
+
+My work on the **BIONIKK clinical trial** (NCT02960906) has identified epigenetic determinants of immunotherapy response in metastatic clear cell renal cell carcinoma. Key discoveries include:
+
+- The **Tumor Enhancer Demethylation (TED)** phenotype associated with immune dysfunction
+- The **Epigenetic Silencing Index (iMES)** predictive of primary resistance to immunotherapy
+- **Angiogenic subtypes** that show enhanced response to combination immunotherapy
+
+These findings, published in *Cell Reports Medicine*, *Clinical Cancer Research*, and *JITC*, provide actionable biomarkers for precision oncology.
+
+### Rare and Pediatric Tumors
+
+I have contributed to comprehensive molecular characterization of rare tumors including:
+- **Upper tract urothelial carcinomas** (published in *Genome Biology*)
+- **Anaplastic Wilms tumors** (published in *Nature Communications*)
+- **Translocation renal cell carcinomas** (Rally Foundation funded)
+
+---
+
+## Scientific Contributions
+
+<div class="row mt-3">
+    <div class="col-sm-3 text-center">
+        <h3 class="mb-0">54</h3>
+        <p class="text-muted">Publications</p>
+    </div>
+    <div class="col-sm-3 text-center">
+        <h3 class="mb-0">2,284</h3>
+        <p class="text-muted">Citations</p>
+    </div>
+    <div class="col-sm-3 text-center">
+        <h3 class="mb-0">21</h3>
+        <p class="text-muted">h-index</p>
+    </div>
+    <div class="col-sm-3 text-center">
+        <h3 class="mb-0">39</h3>
+        <p class="text-muted">First Author</p>
+    </div>
+</div>
+
+---
+
+## Recent News
+
+{% include news.liquid %}
+
+---
+
+## Featured Publications
+
+{% include selected_papers.liquid %}
+
+---
+
+## Education
+
+- **PhD in Bioinformatics** (2019-2022)  
+  China Pharmaceutical University, Nanjing, China  
+  *Thesis: Molecular Classification of Urothelial Carcinomas*
+
+- **MSc in Biostatistics** (2016-2019)  
+  China Pharmaceutical University, Nanjing, China
+
+- **BSc in Medical Information Management** (2012-2016)  
+  China Pharmaceutical University, Nanjing, China
+
+---
+
+## Contact
+
+I am always open to research collaborations and discussions. Feel free to reach out:
+
+📧 **Email:** [lux@igbmc.fr](mailto:lux@igbmc.fr) | [xiaofan.lu@inserm.fr](mailto:xiaofan.lu@inserm.fr)  
+🔬 **ORCID:** [0000-0003-2417-6548](https://orcid.org/0000-0003-2417-6548)  
+💻 **GitHub:** [xlucpu](https://github.com/xlucpu)
+

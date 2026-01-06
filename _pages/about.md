@@ -8,7 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-family: 'Times New Roman', serif; font-size: 11px;">1 Rue Laurent Fries, 67404 Illkirch, France</p>
+    <div style="text-align: center; font-family: 'Times New Roman', serif; font-size: 15px;">
+      1 Rue Laurent Fries, 67404 Illkirch, France
+    </div>
     
   
 

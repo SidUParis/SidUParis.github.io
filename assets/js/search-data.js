@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-delivered-an-oral-presentation-at-the-asco-genitourinary-cancers-symposium-2025-in-san-francisco-on-racial-disparities-in-renal-cell-carcinoma-histology-and-outcomes-from-the-uroccr-cohort-the-work-was-subsequently-featured-in-an-editorial-in-cancer",
+            },},{id: "news-awarded-a-250-000-grant-from-fondation-de-france-2026-2029-as-principal-investigator-to-study-tsmhc-ii-tumor-immune-interactions-and-immunotherapy-resistance-in-metastatic-ccrcc",
+          title: '💰 Awarded a €250,000 grant from Fondation de France (2026-2029) as Principal Investigator...',
+          description: "",
+          section: "News",},{id: "news-delivered-an-oral-presentation-at-the-asco-genitourinary-cancers-symposium-2025-in-san-francisco-on-racial-disparities-in-renal-cell-carcinoma-histology-and-outcomes-from-the-uroccr-cohort-the-work-was-subsequently-featured-in-an-editorial-in-cancer",
           title: '🎤 Delivered an oral presentation at the ASCO Genitourinary Cancers Symposium 2025 in...',
           description: "",
           section: "News",},{id: "news-️-honored-to-receive-the-aacr-kidney-cancer-association-scholar-in-training-award-at-the-aacr-annual-meeting-in-chicago-this-recognition-supports-my-research-on-immunotherapy-resistance-mechanisms-in-renal-cell-carcinoma",

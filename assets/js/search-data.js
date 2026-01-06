@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-presented-a-poster-on-comprehensive-molecular-characterization-reveals-hallmarks-of-collecting-duct-carcinoma-at-the-aacr-annual-meeting-2025-in-chicago-illinois",
+          title: '🧬 Presented a poster on “Comprehensive molecular characterization reveals hallmarks of collecting duct...',
           description: "",
           section: "News",},{id: "news-featured-in-aacr-news-following-an-invited-interview-at-the-aacr-annual-meeting-2025-highlighting-our-research-on-rare-renal-cancers-and-translational-genomics",
           title: '📰 Featured in AACR News following an invited interview at the AACR Annual...',

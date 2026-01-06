@@ -4,7 +4,7 @@ title: MOVICS
 description: Multi-Omics Integration and Visualization in Cancer Subtyping
 img: assets/img/movics.jpg
 importance: 1
-category: software
+category: work
 github: https://github.com/xlucpu/MOVICS
 related_publications: true
 ---

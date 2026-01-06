@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: MOVICS
+description: Multi-Omics Integration and Visualization in Cancer Subtyping
+img: assets/img/movics.jpg
 importance: 1
-category: work
+category: software
+github: https://github.com/xlucpu/MOVICS
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**MOVICS** (Multi-Omics Integration and VIsualization in Cancer Subtyping) is a comprehensive R package designed to address a central challenge in cancer research: the robust integration and interpretation of multi-omics data for tumor subtyping.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/movics_workflow.jpg" title="MOVICS workflow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    MOVICS integrates multiple omics layers to identify clinically meaningful tumor subtypes.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Features
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- **Comprehensive Integration**: Implements 10 state-of-the-art multi-omics clustering algorithms
+- **Downstream Analysis**: Structured analyses for cancer subtype characterization and interpretation
+- **Reproducible Framework**: Transforms high-dimensional, heterogeneous data into biologically interpretable tumor phenotypes
+- **Clinical Relevance**: Enables systematic exploration of tumor heterogeneity in a clinically meaningful manner
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Impact
 
-{% raw %}
+Since its release, MOVICS has achieved broad adoption within the scientific community:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **197 citations** reflecting its methodological impact and generalizability
+- **145+ GitHub stars** and **45+ forks** demonstrating strong open-source engagement
+- Used by research groups worldwide for cancer subtyping studies
 
-{% endraw %}
+## MOVICShiny
+
+Building on MOVICS's success, I developed **MOVICShiny**, an interactive Shiny application that lowers the barrier to multi-omics analysis for researchers with limited programming expertise.
+
+- **Web Application**: [http://www.movics-cpu.com:3838/](http://www.movics-cpu.com:3838/)
+- **Currently used by 20+ research groups** internationally
+- Published in _Clinical and Translational Medicine_
+
+## Resources
+
+- **GitHub Repository**: [xlucpu/MOVICS](https://github.com/xlucpu/MOVICS)
+- **Documentation**: Comprehensive vignettes and tutorials
+- **Publication**: Lu et al., _Bioinformatics_ (2020)
+- **MOVICShiny Publication**: Zhu et al., _Clinical and Translational Medicine_ (2024)
+
+## Applications
+
+MOVICS has been applied to various cancer types including:
+
+- Upper tract urothelial carcinomas (UTUC)
+- Bladder cancer (UBC)
+- Clear-cell renal cell carcinoma (ccRCC)
+- Multiple other solid tumors
+
+The framework enables researchers to:
+
+- Identify molecular subtypes associated with clinical outcomes
+- Characterize tumor microenvironment heterogeneity
+- Predict treatment response
+- Discover novel therapeutic targets

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-30
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🏆 Received the **Young Researcher Oncology Prize** at the 12th FMTS Scientific Meeting in Strasbourg for my work on epigenetic determinants of immunotherapy response in clear-cell renal cell carcinoma.

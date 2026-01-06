@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-a-poster-on-comprehensive-molecular-characterization-reveals-hallmarks-of-collecting-duct-carcinoma-at-the-aacr-annual-meeting-2025-in-chicago-illinois",
+            },},{id: "news-️-honored-to-receive-the-aacr-kidney-cancer-association-scholar-in-training-award-at-the-aacr-annual-meeting-in-chicago-this-recognition-supports-my-research-on-immunotherapy-resistance-mechanisms-in-renal-cell-carcinoma",
+          title: '🎖️ Honored to receive the AACR-Kidney Cancer Association Scholar-in-Training Award at the AACR...',
+          description: "",
+          section: "News",},{id: "news-presented-a-poster-on-comprehensive-molecular-characterization-reveals-hallmarks-of-collecting-duct-carcinoma-at-the-aacr-annual-meeting-2025-in-chicago-illinois",
           title: '🧬 Presented a poster on “Comprehensive molecular characterization reveals hallmarks of collecting duct...',
           description: "",
           section: "News",},{id: "news-featured-in-aacr-news-following-an-invited-interview-at-the-aacr-annual-meeting-2025-highlighting-our-research-on-rare-renal-cancers-and-translational-genomics",

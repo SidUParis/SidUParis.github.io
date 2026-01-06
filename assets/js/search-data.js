@@ -478,7 +478,7 @@ ninja.data = [{
           title: 'Treatment Stratification in Metastatic ccRCC',
           description: "Translating molecular tumor phenotypes into clinical treatment selection strategies",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_stratification/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",

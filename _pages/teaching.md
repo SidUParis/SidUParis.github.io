@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: mentoring
+title: Mentoring
 description: PhD students, interns, and collaborative projects
 nav: true
 nav_order: 6

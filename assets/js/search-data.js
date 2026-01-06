@@ -440,13 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-featured-in-aacr-news-following-an-invited-interview-at-the-aacr-annual-meeting-2025-highlighting-our-research-on-rare-renal-cancers-and-translational-genomics",
+          title: '📰 Featured in AACR News following an invited interview at the AACR Annual...',
           description: "",
           section: "News",},{id: "news-received-the-young-researcher-oncology-prize-at-the-12th-fmts-scientific-meeting-in-strasbourg-for-my-work-on-epigenetic-determinants-of-immunotherapy-response-in-clear-cell-renal-cell-carcinoma",
           title: '🏆 Received the Young Researcher Oncology Prize at the 12th FMTS Scientific Meeting...',

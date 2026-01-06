@@ -464,9 +464,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-figureya-framework-was-selected-as-the-cover-article-for-the-inaugural-issue-of-imetamed-this-project-provides-300-reproducible-tutorials-for-biomedical-data-analysis",
           title: '📚 Our FigureYa framework was selected as the cover article for the inaugural...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-movics",
+          title: 'MOVICS',
+          description: "Multi-Omics Integration and Visualization in Cancer Subtyping",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",

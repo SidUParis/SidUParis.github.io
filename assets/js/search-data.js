@@ -479,11 +479,11 @@ ninja.data = [{
           description: "Translating molecular tumor phenotypes into clinical treatment selection strategies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_stratification/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-molecular-characterization-of-rare-tumors",
+          title: 'Molecular Characterization of Rare Tumors',
+          description: "Comprehensive multi-omics profiling of rare urothelial and pediatric kidney cancers",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_rare_tumors/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",

@@ -1,81 +1,123 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Treatment Stratification in Metastatic ccRCC
+description: Translating molecular tumor phenotypes into clinical treatment selection strategies
+img: assets/img/treatment_stratification.jpg
 importance: 3
 category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Moving beyond complex, high-dimensional transcriptomic signatures, this project focuses on developing **simple, reproducible biomarker frameworks** applicable in clinical decision-making for metastatic clear-cell renal cell carcinoma (ccRCC).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Objectives
+
+1. Develop low-dimensional stratification models for immunotherapy response prediction
+2. Guide selection between dual immune checkpoint blockade (IO/IO) and IO-TKI combinations
+3. Translate molecular phenotypes into pragmatic clinical tools
+
+## Project 1: Dual HERV-Based Stratification System
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/herv_stratification.jpg" title="HERV stratification" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Approach
+
+- Developed a simple stratification model based on **two genomic features** derived from RNA-seq data
+- Leveraged updated clinical follow-up from the BIONIKK trial
+- Validated in external prospective cohorts
+
+### Key Results
+
+- Reproducibly separated patients into groups with **distinct clinical outcomes** following immunotherapy
+- **Improved predictive performance** compared with conventional transcriptomic signatures
+- **Additive value** when combined with epigenetic DNA methylation markers
+- Pragmatic framework suitable for clinical implementation
+
+### Clinical Utility
+
+This low-dimensional model provides:
+
+- Simple, cost-effective biomarker assessment
+- Clear treatment stratification guidance
+- Integration with existing molecular profiling
+
+**Publication**: Lu et al., _Journal for ImmunoTherapy of Cancer_ (2025)
+
+## Project 2: Angiogenic Subtypes and IO/IO Selection
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/angiogenic_subtypes.jpg" title="Angiogenic response" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### Clinical Question
+
+**How to select between dual immune checkpoint blockade (IO/IO) and IO-TKI combinations?**
+
+### Study Design
+
+- Used molecular subtypes defined within the BIONIKK trial
+- Compared outcomes between ipilimumab-nivolumab and IO-TKI regimens
+- Stratified by tumor molecular phenotypes
+
+### Major Findings
+
+**Angiogenic tumor phenotypes**:
+
+- Derived **significantly greater benefit** from ipilimumab-nivolumab
+- Higher objective response rates
+- **Exclusive complete responses**
+- Longer progression-free survival
+
+**Non-angiogenic tumors** (T-effector, cell-cycle programs):
+
+- Attenuated advantage from dual checkpoint blockade
+- Similar outcomes with IO-TKI combinations
+
+**Critical insight**: IO-TKI combinations did **not** confer additional benefit in angiogenic tumors
+
+### Clinical Implications
+
+These findings challenge conventional treatment paradigms and suggest:
+
+- Angiogenic phenotype as a **positive predictive biomarker** for IO/IO
+- Potential to avoid unnecessary TKI-related toxicity
+- Refined patient selection for combination strategies
+
+**Publication**: Lu et al., _NPJ Precision Oncology_ (2025)
+
+## Integrated Framework
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/integrated_framework.jpg" title="Integrated stratification" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The combination of these approaches provides a **multi-layered stratification strategy**:
 
-{% raw %}
+1. **Genomic features** (HERV-based model) - rapid screening
+2. **Epigenetic markers** (iMES, TED) - mechanistic depth
+3. **Molecular subtypes** (angiogenic vs. non-angiogenic) - treatment selection
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Impact
 
-{% endraw %}
+This work represents a transition from:
+
+- **Descriptive molecular profiling** → **Biomarker-informed clinical decision-making**
+- **Complex signatures** → **Simple, robust molecular readouts**
+- **Retrospective analysis** → **Prospective trial-based validation**
+
+## Future Applications
+
+- Integration into clinical trial design
+- Development of companion diagnostics
+- Real-world implementation in precision oncology programs
+- Extension to other cancer types

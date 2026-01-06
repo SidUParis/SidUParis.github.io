@@ -1,81 +1,102 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Epigenetic Biomarkers in Kidney Cancer
+description: Identifying DNA methylation signatures predictive of immunotherapy response in metastatic clear-cell renal cell carcinoma
+img: assets/img/epigenetics_ccrcc.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Background
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Metastatic clear-cell renal cell carcinoma (ccRCC) represents a major clinical challenge, with variable responses to immune checkpoint inhibitors (ICIs). My research addresses the critical need to predict treatment response through epigenetic profiling.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## The BIONIKK Trial
+
+This work is based on the **BIONIKK clinical trial** (NCT02960906), the first academic personalized clinical trial in metastatic ccRCC assessing patient response to:
+
+- Nivolumab monotherapy
+- Ipilimumab + Nivolumab (Ipi/Nivo)
+- Sunitinib
+
+## Key Discoveries
+
+### 1. Tumor Enhancer Demethylation (TED) Phenotype
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ted_phenotype.jpg" title="TED phenotype" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+**Key findings**:
+
+- Identified a novel ccRCC subgroup defined by tumor enhancer demethylation
+- Strongly associated with **primary resistance** to first-line Ipi/Nivo therapy
+- Characterized by aggressive clinical features and poor outcomes
+- Frequent sarcomatoid differentiation
+
+**Molecular mechanisms**:
+
+- TET1 promoter demethylation
+- Activation of epithelial-mesenchymal transition (EMT)
+- IL-6/JAK/STAT3 signaling activation
+- Distinctive TME: immune activation + immunosuppression, fibroblast enrichment, endothelial depletion
+
+**Publication**: Lu et al., _Clinical Cancer Research_ (2022)
+
+### 2. Epigenetic Silencing Index (iMES)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/imes_framework.jpg" title="iMES framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Objective**: Predict primary resistance to immune checkpoint inhibitors
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+**Approach**:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Developed a methylation-based epigenetic silencing index (iMES)
+- Validated across independent ccRCC cohorts
+- Robust predictor of immunotherapy response
 
-{% raw %}
+**iMES-high tumor characteristics**:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- Non-permissive tumor microenvironment
+- Concurrent immune activation and suppression
+- EZH2 activation
+- Frequent BAP1 or SETD2 alterations
+- Epigenetic silencing of VEGF receptor genes
+- Reduced endothelial component in TME
 
-{% endraw %}
+**Clinical significance**: Challenges the prevailing belief that ccRCC with angiogenic signature benefits solely from anti-angiogenic agents
+
+**Publication**: Lu et al., _Cell Reports Medicine_ (2023)  
+**Software**: [iMES R package](https://github.com/xlucpu/iMES)
+
+## Clinical Impact
+
+These complementary epigenetic biomarker frameworks enable:
+
+- **Robust prediction** of immunotherapy response
+- **Treatment stratification** for personalized therapy selection
+- **Mechanistic understanding** of resistance mechanisms
+
+## Recognition
+
+- **Editorial**: Zhou and Kim, _Clinical Cancer Research_ (2023) - "Viewing RCC with a DNA Methylation Lens ENHANCES Understanding of ICI Resistance"
+- **Oral presentations**:
+  - ARC Symposium for Signatures in Cancer Immunotherapy (Paris, 2023)
+  - 1ères Journées de recherche en Immuno-Oncologie (Strasbourg, 2025)
+  - 12th FMTS Scientific Meeting (Strasbourg, 2025)
+- **Award**: Young Researcher Oncology Prize (2025)
+
+## Future Directions
+
+The identification of TED and iMES provides a foundation for:
+
+- Epigenetic biomarker-driven clinical trials
+- Development of combination therapies targeting epigenetic vulnerabilities
+- Personalized treatment selection in metastatic ccRCC

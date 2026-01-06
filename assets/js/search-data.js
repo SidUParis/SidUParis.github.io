@@ -468,7 +468,7 @@ ninja.data = [{
           title: 'MOVICS',
           description: "Multi-Omics Integration and Visualization in Cancer Subtyping",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_movics/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",

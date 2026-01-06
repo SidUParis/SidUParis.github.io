@@ -23,7 +23,7 @@ announcements:
   limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -97,17 +97,35 @@ I have contributed to comprehensive molecular characterization of rare tumors in
 
 ---
 
-## Education
+## Professional Experience
 
-- **PhD in Bioinformatics** (2019-2022)  
-  China Pharmaceutical University, Nanjing, China  
-  *Thesis: Molecular Classification of Urothelial Carcinomas*
+**Postdoctoral Fellow** | Jan 2023 - Present  
+[Department of Cancer and Functional Genomics](https://www.igbmc.fr/), IGBMC, Illkirch, France  
+_Supervisor: Prof. Gabriel Malouf | Team: Molecular and Translational Oncology_
 
-- **MSc in Biostatistics** (2016-2019)  
-  China Pharmaceutical University, Nanjing, China
+**Visiting Scholar** | Nov 2021 - Oct 2022  
+IGBMC, Illkirch, France  
+_Supervisor: Prof. Gabriel Malouf_  
+_Project: Comprehensive characterization of rare urothelial and renal carcinomas_
 
-- **BSc in Medical Information Management** (2012-2016)  
-  China Pharmaceutical University, Nanjing, China
+**PhD in Bioinformatics** | Sep 2019 - Dec 2022  
+China Pharmaceutical University, Nanjing, China  
+_Supervisor: Prof. Fangrong Yan_  
+_Thesis: Multi-omics integrative profiling in urothelial carcinoma characterization_
+
+**Visiting Scholar** | Feb 2018 - Jun 2018  
+[Department of Bioinformatics](https://www.mdanderson.org/), MD Anderson Cancer Center, Houston, Texas, USA  
+_Supervisor: Prof. Xiaoping Su_  
+_Focus: Advanced multi-omics data analysis techniques in oncogenomics_
+
+**MSc in Biostatistics** | Sep 2016 - Jun 2019  
+China Pharmaceutical University, Nanjing, China  
+_Supervisor: Prof. Fangrong Yan_  
+_Thesis: Joint modeling of longitudinal and survival data for ovarian cancer_
+
+**BSc in Medical Information Management** | Sep 2012 - Jul 2016  
+China Pharmaceutical University, Nanjing, China  
+_Focus: Computing skills in medical information management and systems_
 
 ---
 

@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-mentoring",
-          title: "Mentoring",
-          description: "Phd Supervision",
+          title: "mentoring",
+          description: "PhD students, interns, and collaborative projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";

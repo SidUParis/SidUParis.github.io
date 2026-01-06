@@ -469,9 +469,9 @@ ninja.data = [{
           description: "Multi-Omics Integration and Visualization in Cancer Subtyping",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_movics/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-epigenetic-biomarkers-in-kidney-cancer",
+          title: 'Epigenetic Biomarkers in Kidney Cancer',
+          description: "Identifying DNA methylation signatures predictive of immunotherapy response in metastatic clear-cell renal cell carcinoma",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

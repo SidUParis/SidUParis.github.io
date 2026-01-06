@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-04-27
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+🧬 Presented a poster on "Comprehensive molecular characterization reveals hallmarks of collecting duct carcinoma" at the **AACR Annual Meeting 2025** in Chicago, Illinois.

@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-family: 'Courier New', monospace; font-size: 14px;">1 Rue Laurent Fries</p>
-    <p style="font-family: 'Courier New', monospace; font-size: 14px;">, 67404 Illkirch, France</p>
+    <p style="font-family: 'Times New Roman', serif; font-size: 11px;">1 Rue Laurent Fries</p>
+    <p style="font-family: 'Times New Roman', serif; font-size: 11px;">, 67404 Illkirch, France</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

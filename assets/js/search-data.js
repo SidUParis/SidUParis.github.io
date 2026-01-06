@@ -484,11 +484,11 @@ ninja.data = [{
           description: "Comprehensive multi-omics profiling of rare urothelial and pediatric kidney cancers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_rare_tumors/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-tumor-microenvironment-in-bladder-cancer",
+          title: 'Tumor Microenvironment in Bladder Cancer',
+          description: "TME-based classification and immunotherapy biomarker development in urothelial bladder carcinoma",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/5_bladder_tme/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",

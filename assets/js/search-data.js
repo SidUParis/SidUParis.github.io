@@ -473,7 +473,7 @@ ninja.data = [{
           title: 'Epigenetic Biomarkers in Kidney Cancer',
           description: "Identifying DNA methylation signatures predictive of immunotherapy response in metastatic clear-cell renal cell carcinoma",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_epigenetics/";
             },},{id: "projects-treatment-stratification-in-metastatic-ccrcc",
           title: 'Treatment Stratification in Metastatic ccRCC',
           description: "Translating molecular tumor phenotypes into clinical treatment selection strategies",

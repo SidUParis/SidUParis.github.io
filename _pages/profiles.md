@@ -99,7 +99,7 @@ We maintain active collaborations with:
 
 We are always interested in motivated researchers passionate about computational oncology and translational research. If you are interested in joining our team, please reach out to:
 
-- **Prof. Gabriel Malouf**: [email@igbmc.fr](mailto:email@igbmc.fr)
+- **Prof. Gabriel Malouf**: [maloufg@igbmc.fr](mailto:maloufg@igbmc.fr)
 - **Dr. Xiaofan Lu**: [lux@igbmc.fr](mailto:lux@igbmc.fr)
 
 ---

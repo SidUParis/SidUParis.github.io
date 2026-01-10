@@ -100,7 +100,7 @@ I have contributed to comprehensive molecular characterization of rare tumors in
 ## Professional Experience
 
 **Postdoctoral Fellow** | Jan 2023 - Present  
-[Department of Cancer and Functional Genomics](https://www.igbmc.fr/), IGBMC, Illkirch, France  
+[Department of Cancer and Functional Genomics](https://www.igbmc.fr/genomique-fonctionnelle-et-cancer), IGBMC, Illkirch, France  
 _Supervisor: Prof. Gabriel Malouf | Team: Molecular and Translational Oncology_
 
 **Visiting Scholar** | Nov 2021 - Oct 2022  

@@ -18,7 +18,7 @@ We are part of the **Department of Cancer and Functional Genomics** at the [Inst
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/team/gabriel_malouf.jpg" title="Prof. Gabriel Malouf" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/laoban.jpg" title="Prof. Gabriel Malouf" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <h3>Prof. Gabriel Malouf</h3>
@@ -35,7 +35,7 @@ We are part of the **Department of Cancer and Functional Genomics** at the [Inst
         </ul>
         <p>
             <a href="https://www.igbmc.fr/" target="_blank"><i class="fas fa-globe"></i></a>
-            <a href="https://scholar.google.com/citations?user=..." target="_blank"><i class="ai ai-google-scholar"></i></a>
+            <a href="https://scholar.google.com/citations?user=OTn9RJ4AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i></a>
         </p>
     </div>
 </div>
@@ -46,7 +46,7 @@ We are part of the **Department of Cancer and Functional Genomics** at the [Inst
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/team/xiaofan_lu.jpg" title="Dr. Xiaofan Lu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" title="Dr. Xiaofan Lu" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <h3>Dr. Xiaofan Lu</h3>

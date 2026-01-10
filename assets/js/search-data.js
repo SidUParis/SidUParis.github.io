@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "My projects focus on deciphering the molecular mechanisms driving rare and aggressive urothelial and renal carcinomas, by integrating genomics, transcriptomics, epigenomics, and clinical metrics to reveal oncogenic programs that shape tumor heterogeneity, progression, and therapeutic resistance.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-26'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 21
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 26
+    citations: 28
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -30,11 +30,11 @@ papers:
     title: "Characterization of the prognostic values and response to immunotherapy/chemotherapy of Kr\xFCppel\u2010like factors in prostate cancer"
     year: '2020'
   Er4NVVcAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 4
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 38
+    citations: 39
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
@@ -106,7 +106,7 @@ papers:
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 22
+    citations: 25
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -150,7 +150,7 @@ papers:
     title: Tumor Immunity Microenvironment-based classifications of bladder cancer for enhancing cancer immunotherapy
     year: '2020'
   Er4NVVcAAAAJ:Y0pCki6q_DkC:
-    citations: 64
+    citations: 65
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
@@ -198,7 +198,7 @@ papers:
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 685
+    citations: 686
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -238,11 +238,11 @@ papers:
     title: 'Identifying Modifiable Risk Factors for Colorectal Cancer with MUSE: A Novel Two-Sample Mendelian Randomization Method'
     year: Unknown Year
   Er4NVVcAAAAJ:j3f4tGmQtD8C:
-    citations: 13
+    citations: 14
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 151
+    citations: 152
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:
@@ -286,7 +286,7 @@ papers:
     title: 'Identification and validation of tumour microenvironment-based immune molecular subgroups for gastric cancer: immunotherapeutic implications'
     year: '2020'
   Er4NVVcAAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: 'Corrigendum: Deep Learning-Enabled Clinically Applicable CT Planbox for Stroke With High Accuracy and Repeatability'
     year: '2022'
   Er4NVVcAAAAJ:ufrVoPGSRksC:

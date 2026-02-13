@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-13'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 21
@@ -10,11 +10,11 @@ papers:
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
-    citations: 85
+    citations: 86
     title: Continuously available ratio of SpO2/FiO2 serves as a noninvasive prognostic marker for intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: Multiomics data reveals the influences of myasthenia gravis on thymoma and its precision treatment
     year: '2021'
   Er4NVVcAAAAJ:4DMP91E08xMC:
@@ -34,7 +34,7 @@ papers:
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 39
+    citations: 41
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: "DNA replication stress stratifies prognosis and enables exploitable therapeutic vulnerabilities of HBV-associated hepatocellular carcinoma: an in silico strategy \u2026"
     year: '2021'
   Er4NVVcAAAAJ:9ZlFYXVOiuMC:
-    citations: 78
+    citations: 79
     title: 'Immune response drives outcomes in prostate cancer: implications for immunotherapy'
     year: '2021'
   Er4NVVcAAAAJ:9yKSN-GCB0IC:
@@ -58,7 +58,7 @@ papers:
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
-    citations: 35
+    citations: 38
     title: Single-cell transcriptomics reveals early molecular and immune alterations underlying the serrated neoplasia pathway toward colorectal cancer
     year: '2023'
   Er4NVVcAAAAJ:IWHjjKOFINEC:
@@ -86,7 +86,7 @@ papers:
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
-    citations: 45
+    citations: 46
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
@@ -142,7 +142,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 202
+    citations: 209
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -150,7 +150,7 @@ papers:
     title: Tumor Immunity Microenvironment-based classifications of bladder cancer for enhancing cancer immunotherapy
     year: '2020'
   Er4NVVcAAAAJ:Y0pCki6q_DkC:
-    citations: 65
+    citations: 68
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
@@ -170,7 +170,7 @@ papers:
     title: 'Clinically applicable deep learning strategy for pulmonary nodule risk Prediction: Insights into HONORS'
     year: '2020'
   Er4NVVcAAAAJ:Zph67rFs4hoC:
-    citations: 61
+    citations: 62
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
@@ -182,7 +182,7 @@ papers:
     title: Multi-omics comprehensive analysis of renal clear cell carcinoma to distinguish subtypes with different molecular characterizations and therapeutic strategies
     year: '2023'
   Er4NVVcAAAAJ:_kc_bZDykSQC:
-    citations: 17
+    citations: 20
     title: "Integrated multi\u2010omics data reveals the molecular subtypes and guides the androgen receptor signalling inhibitor treatment of prostate cancer"
     year: '2021'
   Er4NVVcAAAAJ:aqlVkmm33-oC:
@@ -194,11 +194,11 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 20
+    citations: 22
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 686
+    citations: 684
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -218,7 +218,7 @@ papers:
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
-    citations: 10
+    citations: 11
     title: An enhancer demethylator phenotype converged to immune dysfunction and resistance to immune checkpoint inhibitors in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:hMod-77fHWUC:
@@ -242,7 +242,7 @@ papers:
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 152
+    citations: 151
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:
@@ -258,7 +258,7 @@ papers:
     title: Dynamic prognostic model for kidney renal clear cell carcinoma (KIRC) patients by combining clinical and genetic information
     year: '2018'
   Er4NVVcAAAAJ:maZDTaKrznsC:
-    citations: 5
+    citations: 8
     title: A unique gene signature predicting recurrence-free survival in stage IA lung adenocarcinoma
     year: '2023'
   Er4NVVcAAAAJ:qUcmZB5y_30C:

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-16'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 21
@@ -10,11 +10,11 @@ papers:
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
-    citations: 86
+    citations: 84
     title: Continuously available ratio of SpO2/FiO2 serves as a noninvasive prognostic marker for intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 10
     title: Multiomics data reveals the influences of myasthenia gravis on thymoma and its precision treatment
     year: '2021'
   Er4NVVcAAAAJ:4DMP91E08xMC:
@@ -34,11 +34,11 @@ papers:
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 41
+    citations: 42
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
-    citations: 5
+    citations: 6
     title: "DNA replication stress stratifies prognosis and enables exploitable therapeutic vulnerabilities of HBV-associated hepatocellular carcinoma: an in silico strategy \u2026"
     year: '2021'
   Er4NVVcAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Marital status, an independent predictor for survival of gastric neuroendocrine neoplasm patients: a SEER database analysis'
     year: '2020'
   Er4NVVcAAAAJ:BqipwSGYUEgC:
-    citations: 1
+    citations: 2
     title: 'Racial differences in kidney cancer histology and outcome: A nationwide study from the UroCCR Cohort'
     year: '2025'
   Er4NVVcAAAAJ:GnPB-g6toBAC:
@@ -58,7 +58,7 @@ papers:
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
-    citations: 38
+    citations: 37
     title: Single-cell transcriptomics reveals early molecular and immune alterations underlying the serrated neoplasia pathway toward colorectal cancer
     year: '2023'
   Er4NVVcAAAAJ:IWHjjKOFINEC:
@@ -71,10 +71,10 @@ papers:
     year: '2021'
   Er4NVVcAAAAJ:JV2RwH3_ST0C:
     citations: 1
-    title: 'Racial Disparities in Renal Cell Carcinoma Histology and Outcomes: Insights from the French Kidney Cancer Research Network (UroCCR-191)'
+    title: 'Racial disparities in renal cell carcinoma histology and outcomes: insights from the French Kidney Cancer Research Network (UroCCR-191)'
     year: '2025'
   Er4NVVcAAAAJ:KlAtU1dfN6UC:
-    citations: 27
+    citations: 26
     title: Molecular classification and subtype-specific characterization of skin cutaneous melanoma by aggregating multiple genomic platform data
     year: '2018'
   Er4NVVcAAAAJ:LkGwnXOMwfcC:
@@ -110,12 +110,12 @@ papers:
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
-    citations: 7
+    citations: 6
     title: Specific epigenetic age acceleration patterns among four molecular subtypes of gastric cancer and their prognostic value
     year: '2021'
   Er4NVVcAAAAJ:TFP_iSt0sucC:
     citations: 5
-    title: "MOVICShiny: An interactive website for multi\u2010omics integration and visualisation in cancer subtyping"
+    title: "MOVICShiny: an interactive website for multi\u2010omics integration and visualisation in cancer subtyping"
     year: '2024'
   Er4NVVcAAAAJ:TQgYirikUcIC:
     citations: 0
@@ -142,7 +142,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 209
+    citations: 210
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -150,7 +150,7 @@ papers:
     title: Tumor Immunity Microenvironment-based classifications of bladder cancer for enhancing cancer immunotherapy
     year: '2020'
   Er4NVVcAAAAJ:Y0pCki6q_DkC:
-    citations: 68
+    citations: 70
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
@@ -162,7 +162,7 @@ papers:
     title: "Prognosis stratification and personalized treatment in bladder cancer through a robust immune gene pair\u2010based signature"
     year: '2021'
   Er4NVVcAAAAJ:YsMSGLbcyi4C:
-    citations: 35
+    citations: 36
     title: Genomic characterization of cervical cancer based on human papillomavirus status
     year: '2019'
   Er4NVVcAAAAJ:ZeXyd9-uunAC:
@@ -170,7 +170,7 @@ papers:
     title: 'Clinically applicable deep learning strategy for pulmonary nodule risk Prediction: Insights into HONORS'
     year: '2020'
   Er4NVVcAAAAJ:Zph67rFs4hoC:
-    citations: 62
+    citations: 61
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
@@ -194,11 +194,11 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 22
+    citations: 24
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 684
+    citations: 679
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -238,11 +238,11 @@ papers:
     title: 'Identifying Modifiable Risk Factors for Colorectal Cancer with MUSE: A Novel Two-Sample Mendelian Randomization Method'
     year: Unknown Year
   Er4NVVcAAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 15
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 151
+    citations: 155
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:

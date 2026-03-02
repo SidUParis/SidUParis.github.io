@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-02'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
-    citations: 21
+    citations: 22
     title: CD8+ T Cell-Based Molecular Classification With Heterogeneous Immunogenomic Landscapes and Clinical Significance of Clear Cell Renal Cell Carcinoma
     year: '2021'
   Er4NVVcAAAAJ:0EnyYjriUFMC:
@@ -30,11 +30,11 @@ papers:
     title: "Characterization of the prognostic values and response to immunotherapy/chemotherapy of Kr\xFCppel\u2010like factors in prostate cancer"
     year: '2020'
   Er4NVVcAAAAJ:5nxA0vEk-isC:
-    citations: 4
+    citations: 5
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 42
+    citations: 43
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
@@ -82,7 +82,7 @@ papers:
     title: Qualitative transcriptional signature for the pathological diagnosis of pancreatic cancer
     year: '2020'
   Er4NVVcAAAAJ:M3NEmzRMIkIC:
-    citations: 4
+    citations: 5
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
@@ -146,7 +146,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 214
+    citations: 217
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -174,7 +174,7 @@ papers:
     title: 'Clinically applicable deep learning strategy for pulmonary nodule risk Prediction: Insights into HONORS'
     year: '2020'
   Er4NVVcAAAAJ:Zph67rFs4hoC:
-    citations: 61
+    citations: 62
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
@@ -198,7 +198,7 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 25
+    citations: 26
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
@@ -258,7 +258,7 @@ papers:
     title: Metabolism-associated molecular classification of gastric adenocarcinoma
     year: '2022'
   Er4NVVcAAAAJ:mVmsd5A6BfQC:
-    citations: 26
+    citations: 27
     title: Dynamic prognostic model for kidney renal clear cell carcinoma (KIRC) patients by combining clinical and genetic information
     year: '2018'
   Er4NVVcAAAAJ:maZDTaKrznsC:
@@ -274,7 +274,7 @@ papers:
     title: Identify clear cell renal cell carcinoma related genes by gene network
     year: '2017'
   Er4NVVcAAAAJ:qxL8FJ1GzNcC:
-    citations: 46
+    citations: 47
     title: Comprehensive integrative profiling of upper tract urothelial carcinomas
     year: '2021'
   Er4NVVcAAAAJ:r0BpntZqJG4C:
@@ -290,7 +290,7 @@ papers:
     title: 'Identification and validation of tumour microenvironment-based immune molecular subgroups for gastric cancer: immunotherapeutic implications'
     year: '2020'
   Er4NVVcAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 2
     title: 'Corrigendum: Deep Learning-Enabled Clinically Applicable CT Planbox for Stroke With High Accuracy and Repeatability'
     year: '2022'
   Er4NVVcAAAAJ:ufrVoPGSRksC:

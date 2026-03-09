@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-09'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 22
     title: CD8+ T Cell-Based Molecular Classification With Heterogeneous Immunogenomic Landscapes and Clinical Significance of Clear Cell Renal Cell Carcinoma
     year: '2021'
   Er4NVVcAAAAJ:0EnyYjriUFMC:
-    citations: 21
+    citations: 22
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
@@ -58,7 +58,7 @@ papers:
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
-    citations: 38
+    citations: 39
     title: Single-cell transcriptomics reveals early molecular and immune alterations underlying the serrated neoplasia pathway toward colorectal cancer
     year: '2023'
   Er4NVVcAAAAJ:IWHjjKOFINEC:
@@ -158,11 +158,11 @@ papers:
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
-    citations: 0
+    citations: 1
     title: 'Accounting for the impact of rare variants on causal inference with RARE: a novel multivariable Mendelian randomization method'
     year: '2025'
   Er4NVVcAAAAJ:YOwf2qJgpHMC:
-    citations: 13
+    citations: 14
     title: "Prognosis stratification and personalized treatment in bladder cancer through a robust immune gene pair\u2010based signature"
     year: '2021'
   Er4NVVcAAAAJ:YsMSGLbcyi4C:
@@ -174,7 +174,7 @@ papers:
     title: 'Clinically applicable deep learning strategy for pulmonary nodule risk Prediction: Insights into HONORS'
     year: '2020'
   Er4NVVcAAAAJ:Zph67rFs4hoC:
-    citations: 62
+    citations: 63
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
@@ -214,7 +214,7 @@ papers:
     title: Racial disparities in MiT family translocation renal cell carcinoma
     year: '2023'
   Er4NVVcAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: Macrophages and monocytes mediated activation of oxidative phosphorylation implicated the prognosis and clinical therapeutic strategy of Wilms tumour
     year: '2022'
   Er4NVVcAAAAJ:hC7cP41nSMkC:
@@ -246,7 +246,7 @@ papers:
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 155
+    citations: 156
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:

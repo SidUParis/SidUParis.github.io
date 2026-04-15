@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-15'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -30,11 +30,11 @@ papers:
     title: "Characterization of the prognostic values and response to immunotherapy/chemotherapy of Kr\xFCppel\u2010like factors in prostate cancer"
     year: '2020'
   Er4NVVcAAAAJ:5nxA0vEk-isC:
-    citations: 6
+    citations: 5
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 45
+    citations: 44
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: "DNA replication stress stratifies prognosis and enables exploitable therapeutic vulnerabilities of HBV-associated hepatocellular carcinoma: an in silico strategy \u2026"
     year: '2021'
   Er4NVVcAAAAJ:9ZlFYXVOiuMC:
-    citations: 79
+    citations: 80
     title: 'Immune response drives outcomes in prostate cancer: implications for immunotherapy'
     year: '2021'
   Er4NVVcAAAAJ:9yKSN-GCB0IC:
@@ -82,7 +82,7 @@ papers:
     title: Qualitative transcriptional signature for the pathological diagnosis of pancreatic cancer
     year: '2020'
   Er4NVVcAAAAJ:M3NEmzRMIkIC:
-    citations: 5
+    citations: 6
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
@@ -110,11 +110,11 @@ papers:
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 26
+    citations: 27
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
-    citations: 6
+    citations: 7
     title: Specific epigenetic age acceleration patterns among four molecular subtypes of gastric cancer and their prognostic value
     year: '2021'
   Er4NVVcAAAAJ:TFP_iSt0sucC:
@@ -146,7 +146,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 226
+    citations: 229
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -178,7 +178,7 @@ papers:
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
-    citations: 18
+    citations: 19
     title: Characterization of neoantigen load subgroups in gynecologic and breast cancers
     year: '2020'
   Er4NVVcAAAAJ:_Qo2XoVZTnwC:
@@ -202,7 +202,7 @@ papers:
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 684
+    citations: 686
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -210,7 +210,7 @@ papers:
     title: Epigenetic age acceleration of cervical squamous cell carcinoma converged to human papillomavirus 16/18 expression, immunoactivation, and favourable prognosis
     year: '2020'
   Er4NVVcAAAAJ:e5wmG9Sq2KIC:
-    citations: 6
+    citations: 7
     title: Racial disparities in MiT family translocation renal cell carcinoma
     year: '2023'
   Er4NVVcAAAAJ:eQOLeE2rZwMC:
@@ -222,7 +222,7 @@ papers:
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
-    citations: 11
+    citations: 12
     title: An enhancer demethylator phenotype converged to immune dysfunction and resistance to immune checkpoint inhibitors in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:hMod-77fHWUC:
@@ -262,7 +262,7 @@ papers:
     title: Dynamic prognostic model for kidney renal clear cell carcinoma (KIRC) patients by combining clinical and genetic information
     year: '2018'
   Er4NVVcAAAAJ:maZDTaKrznsC:
-    citations: 8
+    citations: 9
     title: A unique gene signature predicting recurrence-free survival in stage IA lung adenocarcinoma
     year: '2023'
   Er4NVVcAAAAJ:ns9cj8rnVeAC:
@@ -294,7 +294,7 @@ papers:
     title: 'Identification and validation of tumour microenvironment-based immune molecular subgroups for gastric cancer: immunotherapeutic implications'
     year: '2020'
   Er4NVVcAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 2
     title: 'Corrigendum: Deep Learning-Enabled Clinically Applicable CT Planbox for Stroke With High Accuracy and Repeatability'
     year: '2022'
   Er4NVVcAAAAJ:ufrVoPGSRksC:

@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-22'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
-    citations: 22
+    citations: 23
     title: CD8+ T Cell-Based Molecular Classification With Heterogeneous Immunogenomic Landscapes and Clinical Significance of Clear Cell Renal Cell Carcinoma
     year: '2021'
   Er4NVVcAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
-    citations: 84
+    citations: 85
     title: Continuously available ratio of SpO2/FiO2 serves as a noninvasive prognostic marker for intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 31
+    citations: 32
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -66,7 +66,7 @@ papers:
     title: 'Classification of COVID-19 in intensive care patients: towards rational and effective triage'
     year: '2020'
   Er4NVVcAAAAJ:IjCSPb-OGe4C:
-    citations: 25
+    citations: 26
     title: 'Development and validation of a clinically applicable deep learning strategy (HONORS) for pulmonary nodule classification at CT: a retrospective multicentre study'
     year: '2021'
   Er4NVVcAAAAJ:JV2RwH3_ST0C:
@@ -126,11 +126,11 @@ papers:
     title: 'Marital Status, An Independent Predictor for Survival of Gastric Neuroendocrine Neoplasm Patients: A Population-based, Propensity Score-matched Study'
     year: '2020'
   Er4NVVcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 18
     title: 'Multi-Omics Integrative Analysis of Lung Adenocarcinoma: An in silico Profiling for Precise Medicine'
     year: '2022'
   Er4NVVcAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 2
     title: Integrated Multi-Omics Data Reveals the Molecular Subtypes of Prostate Cancer
     year: '2021'
   Er4NVVcAAAAJ:UeHWp8X0CEIC:
@@ -142,7 +142,7 @@ papers:
     title: "Clustering analysis revealed the autophagy classification and potential autophagy regulators' sensitivity of pancreatic cancer based on multi\u2010omics data"
     year: '2023'
   Er4NVVcAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
@@ -186,7 +186,7 @@ papers:
     title: Multi-omics comprehensive analysis of renal clear cell carcinoma to distinguish subtypes with different molecular characterizations and therapeutic strategies
     year: '2023'
   Er4NVVcAAAAJ:_kc_bZDykSQC:
-    citations: 21
+    citations: 22
     title: "Integrated multi\u2010omics data reveals the molecular subtypes and guides the androgen receptor signalling inhibitor treatment of prostate cancer"
     year: '2021'
   Er4NVVcAAAAJ:aqlVkmm33-oC:

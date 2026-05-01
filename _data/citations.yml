@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-01'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 23
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 32
+    citations: 33
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -42,7 +42,7 @@ papers:
     title: "DNA replication stress stratifies prognosis and enables exploitable therapeutic vulnerabilities of HBV-associated hepatocellular carcinoma: an in silico strategy \u2026"
     year: '2021'
   Er4NVVcAAAAJ:9ZlFYXVOiuMC:
-    citations: 80
+    citations: 81
     title: 'Immune response drives outcomes in prostate cancer: implications for immunotherapy'
     year: '2021'
   Er4NVVcAAAAJ:9yKSN-GCB0IC:
@@ -66,7 +66,7 @@ papers:
     title: 'Classification of COVID-19 in intensive care patients: towards rational and effective triage'
     year: '2020'
   Er4NVVcAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: 'Development and validation of a clinically applicable deep learning strategy (HONORS) for pulmonary nodule classification at CT: a retrospective multicentre study'
     year: '2021'
   Er4NVVcAAAAJ:JV2RwH3_ST0C:
@@ -86,7 +86,7 @@ papers:
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
-    citations: 47
+    citations: 48
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
@@ -106,7 +106,7 @@ papers:
     title: 'Liver injury after antiviral treatment of critically ill patients with COVID-19: a single-centered retrospective cohort study'
     year: '2021'
   Er4NVVcAAAAJ:R3hNpaxXUhUC:
-    citations: 8
+    citations: 9
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
@@ -138,7 +138,7 @@ papers:
     title: A pre-operative nomogram for prediction of lymph node metastasis in bladder urothelial carcinoma
     year: '2019'
   Er4NVVcAAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: "Clustering analysis revealed the autophagy classification and potential autophagy regulators' sensitivity of pancreatic cancer based on multi\u2010omics data"
     year: '2023'
   Er4NVVcAAAAJ:W7OEmFMy1HYC:
@@ -146,7 +146,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 229
+    citations: 231
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -198,11 +198,11 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 26
+    citations: 29
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 686
+    citations: 688
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -262,7 +262,7 @@ papers:
     title: Dynamic prognostic model for kidney renal clear cell carcinoma (KIRC) patients by combining clinical and genetic information
     year: '2018'
   Er4NVVcAAAAJ:maZDTaKrznsC:
-    citations: 9
+    citations: 10
     title: A unique gene signature predicting recurrence-free survival in stage IA lung adenocarcinoma
     year: '2023'
   Er4NVVcAAAAJ:ns9cj8rnVeAC:
@@ -290,7 +290,7 @@ papers:
     title: Classification of COVID-19 in intensive care patients
     year: '2020'
   Er4NVVcAAAAJ:u-x6o8ySG0sC:
-    citations: 32
+    citations: 34
     title: 'Identification and validation of tumour microenvironment-based immune molecular subgroups for gastric cancer: immunotherapeutic implications'
     year: '2020'
   Er4NVVcAAAAJ:u5HHmVD_uO8C:

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-20'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 23
@@ -10,7 +10,7 @@ papers:
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
-    citations: 86
+    citations: 87
     title: Continuously available ratio of SpO2/FiO2 serves as a noninvasive prognostic marker for intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 33
+    citations: 36
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: Deep learning-enabled clinically applicable CT planbox for stroke with high accuracy and repeatability
     year: '2022'
   Er4NVVcAAAAJ:7PzlFSSx8tAC:
-    citations: 44
+    citations: 45
     title: 'Precise pulmonary scanning and reducing medical radiation exposure by developing a clinically applicable intelligent CT system: Toward improving patient care'
     year: '2020'
   Er4NVVcAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: "DNA replication stress stratifies prognosis and enables exploitable therapeutic vulnerabilities of HBV-associated hepatocellular carcinoma: an in silico strategy \u2026"
     year: '2021'
   Er4NVVcAAAAJ:9ZlFYXVOiuMC:
-    citations: 80
+    citations: 82
     title: 'Immune response drives outcomes in prostate cancer: implications for immunotherapy'
     year: '2021'
   Er4NVVcAAAAJ:9yKSN-GCB0IC:
@@ -58,7 +58,7 @@ papers:
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
-    citations: 39
+    citations: 40
     title: Single-cell transcriptomics reveals early molecular and immune alterations underlying the serrated neoplasia pathway toward colorectal cancer
     year: '2023'
   Er4NVVcAAAAJ:IWHjjKOFINEC:
@@ -74,7 +74,7 @@ papers:
     title: 'Racial disparities in renal cell carcinoma histology and outcomes: insights from the French Kidney Cancer Research Network (UroCCR-191)'
     year: '2025'
   Er4NVVcAAAAJ:KlAtU1dfN6UC:
-    citations: 26
+    citations: 27
     title: Molecular classification and subtype-specific characterization of skin cutaneous melanoma by aggregating multiple genomic platform data
     year: '2018'
   Er4NVVcAAAAJ:LkGwnXOMwfcC:
@@ -82,11 +82,11 @@ papers:
     title: Qualitative transcriptional signature for the pathological diagnosis of pancreatic cancer
     year: '2020'
   Er4NVVcAAAAJ:M3NEmzRMIkIC:
-    citations: 6
+    citations: 7
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
-    citations: 48
+    citations: 51
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
@@ -110,7 +110,7 @@ papers:
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 27
+    citations: 29
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -142,11 +142,11 @@ papers:
     title: "Clustering analysis revealed the autophagy classification and potential autophagy regulators' sensitivity of pancreatic cancer based on multi\u2010omics data"
     year: '2023'
   Er4NVVcAAAAJ:W7OEmFMy1HYC:
-    citations: 14
+    citations: 15
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 231
+    citations: 236
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -154,7 +154,7 @@ papers:
     title: Tumor Immunity Microenvironment-based classifications of bladder cancer for enhancing cancer immunotherapy
     year: '2020'
   Er4NVVcAAAAJ:Y0pCki6q_DkC:
-    citations: 70
+    citations: 71
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
@@ -166,7 +166,7 @@ papers:
     title: "Prognosis stratification and personalized treatment in bladder cancer through a robust immune gene pair\u2010based signature"
     year: '2021'
   Er4NVVcAAAAJ:YsMSGLbcyi4C:
-    citations: 36
+    citations: 37
     title: Genomic characterization of cervical cancer based on human papillomavirus status
     year: '2019'
   Er4NVVcAAAAJ:ZeXyd9-uunAC:
@@ -198,11 +198,11 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 29
+    citations: 31
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 688
+    citations: 690
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -222,7 +222,7 @@ papers:
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
-    citations: 12
+    citations: 15
     title: An enhancer demethylator phenotype converged to immune dysfunction and resistance to immune checkpoint inhibitors in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:hMod-77fHWUC:
@@ -230,11 +230,11 @@ papers:
     title: Comprehensive molecular characterization reveals hallmarks and therapeutic insights of collecting duct carcinoma
     year: '2025'
   Er4NVVcAAAAJ:hqOjcs7Dif8C:
-    citations: 205
+    citations: 207
     title: Immune signature-based subtypes of cervical squamous cell carcinoma tightly associated with human papillomavirus type 16 expression, molecular features, and clinical outcome
     year: '2019'
   Er4NVVcAAAAJ:iH-uZ7U-co4C:
-    citations: 3
+    citations: 4
     title: Identification and validation of an inflammation-related lncRNAs signature for improving outcomes of patients in colorectal cancer
     year: '2022'
   Er4NVVcAAAAJ:isC4tDSrTZIC:
@@ -254,7 +254,7 @@ papers:
     title: Integrative analysis of single-cell and bulk multi-omics data to reveal subtype-specific characteristics and therapeutic strategies in clear cell renal cell carcinoma patients
     year: '2024'
   Er4NVVcAAAAJ:mB3voiENLucC:
-    citations: 11
+    citations: 12
     title: Metabolism-associated molecular classification of gastric adenocarcinoma
     year: '2022'
   Er4NVVcAAAAJ:mVmsd5A6BfQC:
@@ -278,7 +278,7 @@ papers:
     title: Identify clear cell renal cell carcinoma related genes by gene network
     year: '2017'
   Er4NVVcAAAAJ:qxL8FJ1GzNcC:
-    citations: 47
+    citations: 48
     title: Comprehensive integrative profiling of upper tract urothelial carcinomas
     year: '2021'
   Er4NVVcAAAAJ:r0BpntZqJG4C:
@@ -290,7 +290,7 @@ papers:
     title: Classification of COVID-19 in intensive care patients
     year: '2020'
   Er4NVVcAAAAJ:u-x6o8ySG0sC:
-    citations: 34
+    citations: 35
     title: 'Identification and validation of tumour microenvironment-based immune molecular subgroups for gastric cancer: immunotherapeutic implications'
     year: '2020'
   Er4NVVcAAAAJ:u5HHmVD_uO8C:

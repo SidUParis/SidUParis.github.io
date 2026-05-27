@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-27'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 23
     title: CD8+ T Cell-Based Molecular Classification With Heterogeneous Immunogenomic Landscapes and Clinical Significance of Clear Cell Renal Cell Carcinoma
     year: '2021'
   Er4NVVcAAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 36
+    citations: 37
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -66,7 +66,7 @@ papers:
     title: 'Classification of COVID-19 in intensive care patients: towards rational and effective triage'
     year: '2020'
   Er4NVVcAAAAJ:IjCSPb-OGe4C:
-    citations: 27
+    citations: 28
     title: 'Development and validation of a clinically applicable deep learning strategy (HONORS) for pulmonary nodule classification at CT: a retrospective multicentre study'
     year: '2021'
   Er4NVVcAAAAJ:JV2RwH3_ST0C:
@@ -82,7 +82,7 @@ papers:
     title: Qualitative transcriptional signature for the pathological diagnosis of pancreatic cancer
     year: '2020'
   Er4NVVcAAAAJ:M3NEmzRMIkIC:
-    citations: 7
+    citations: 8
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
@@ -90,7 +90,7 @@ papers:
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
-    citations: 18
+    citations: 20
     title: "Tumour microenvironment\u2010based molecular profiling reveals ideal candidates for high\u2010grade serous ovarian cancer immunotherapy"
     year: '2021'
   Er4NVVcAAAAJ:NMxIlDl6LWMC:
@@ -146,7 +146,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 236
+    citations: 240
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -178,7 +178,7 @@ papers:
     title: Tumor immune microenvironment-based classifications of bladder cancer for enhancing the response rate of immunotherapy
     year: '2021'
   Er4NVVcAAAAJ:_FxGoFyzp5QC:
-    citations: 19
+    citations: 20
     title: Characterization of neoantigen load subgroups in gynecologic and breast cancers
     year: '2020'
   Er4NVVcAAAAJ:_Qo2XoVZTnwC:
@@ -230,7 +230,7 @@ papers:
     title: Comprehensive molecular characterization reveals hallmarks and therapeutic insights of collecting duct carcinoma
     year: '2025'
   Er4NVVcAAAAJ:hqOjcs7Dif8C:
-    citations: 207
+    citations: 208
     title: Immune signature-based subtypes of cervical squamous cell carcinoma tightly associated with human papillomavirus type 16 expression, molecular features, and clinical outcome
     year: '2019'
   Er4NVVcAAAAJ:iH-uZ7U-co4C:

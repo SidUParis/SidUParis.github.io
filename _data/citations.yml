@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 24
@@ -54,7 +54,7 @@ papers:
     title: 'Racial differences in kidney cancer histology and outcome: A nationwide study from the UroCCR Cohort'
     year: '2025'
   Er4NVVcAAAAJ:GnPB-g6toBAC:
-    citations: 6
+    citations: 7
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
@@ -86,7 +86,7 @@ papers:
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
-    citations: 51
+    citations: 50
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
@@ -110,7 +110,7 @@ papers:
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 29
+    citations: 30
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -146,7 +146,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 243
+    citations: 244
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -202,7 +202,7 @@ papers:
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 689
+    citations: 690
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -218,7 +218,7 @@ papers:
     title: Macrophages and monocytes mediated activation of oxidative phosphorylation implicated the prognosis and clinical therapeutic strategy of Wilms tumour
     year: '2022'
   Er4NVVcAAAAJ:hC7cP41nSMkC:
-    citations: 6
+    citations: 7
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
@@ -230,7 +230,7 @@ papers:
     title: Comprehensive molecular characterization reveals hallmarks and therapeutic insights of collecting duct carcinoma
     year: '2025'
   Er4NVVcAAAAJ:hqOjcs7Dif8C:
-    citations: 209
+    citations: 208
     title: Immune signature-based subtypes of cervical squamous cell carcinoma tightly associated with human papillomavirus type 16 expression, molecular features, and clinical outcome
     year: '2019'
   Er4NVVcAAAAJ:iH-uZ7U-co4C:
@@ -302,6 +302,6 @@ papers:
     title: RNA processing genes characterize RNA splicing and further stratify colorectal cancer
     year: '2020'
   Er4NVVcAAAAJ:zYLM7Y9cAGgC:
-    citations: 10
+    citations: 11
     title: Molecular classification and subtype-specific drug sensitivity research of uterine carcinosarcoma under multi-omics framework
     year: '2019'

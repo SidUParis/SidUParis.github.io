@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-24'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 24
     title: CD8+ T Cell-Based Molecular Classification With Heterogeneous Immunogenomic Landscapes and Clinical Significance of Clear Cell Renal Cell Carcinoma
     year: '2021'
   Er4NVVcAAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: Identification of immune-related subtypes and characterization of tumor microenvironment infiltration in bladder cancer
     year: '2021'
   Er4NVVcAAAAJ:2osOgNQ5qMEC:
@@ -50,11 +50,11 @@ papers:
     title: 'Marital status, an independent predictor for survival of gastric neuroendocrine neoplasm patients: a SEER database analysis'
     year: '2020'
   Er4NVVcAAAAJ:BqipwSGYUEgC:
-    citations: 3
+    citations: 4
     title: 'Racial differences in kidney cancer histology and outcome: A nationwide study from the UroCCR Cohort'
     year: '2025'
   Er4NVVcAAAAJ:GnPB-g6toBAC:
-    citations: 7
+    citations: 8
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
@@ -90,7 +90,7 @@ papers:
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
-    citations: 19
+    citations: 20
     title: "Tumour microenvironment\u2010based molecular profiling reveals ideal candidates for high\u2010grade serous ovarian cancer immunotherapy"
     year: '2021'
   Er4NVVcAAAAJ:NMxIlDl6LWMC:
@@ -98,7 +98,7 @@ papers:
     title: Enhanced efficacy of ipilimumab plus nivolumab in angiogenic subtypes of metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:O3NaXMp0MMsC:
-    citations: 0
+    citations: 1
     title: Comprehensive analysis of the causal risk factor from hypertension associated with prognosis and therapeutic response in renal cell carcinoma by multi-omics analysis and validation
     year: '2026'
   Er4NVVcAAAAJ:QIV2ME_5wuYC:
@@ -109,8 +109,12 @@ papers:
     citations: 9
     title: "TIMEAS, a promising method for the stratification of testicular germ cell tumor patients with distinct immune microenvironment, clinical outcome and sensitivity to frontline \u2026"
     year: '2023'
+  Er4NVVcAAAAJ:RGFaLdJalmkC:
+    citations: 0
+    title: Profiling of desmoid tumors reveals frequent mutations in chromatin-remodeling genes and identifies an Immune-myogenic subtype
+    year: '2026'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 30
+    citations: 32
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -118,7 +122,7 @@ papers:
     title: Specific epigenetic age acceleration patterns among four molecular subtypes of gastric cancer and their prognostic value
     year: '2021'
   Er4NVVcAAAAJ:TFP_iSt0sucC:
-    citations: 6
+    citations: 7
     title: "MOVICShiny: an interactive website for multi\u2010omics integration and visualisation in cancer subtyping"
     year: '2024'
   Er4NVVcAAAAJ:TQgYirikUcIC:
@@ -126,7 +130,7 @@ papers:
     title: 'Marital Status, An Independent Predictor for Survival of Gastric Neuroendocrine Neoplasm Patients: A Population-based, Propensity Score-matched Study'
     year: '2020'
   Er4NVVcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 18
     title: 'Multi-Omics Integrative Analysis of Lung Adenocarcinoma: An in silico Profiling for Precise Medicine'
     year: '2022'
   Er4NVVcAAAAJ:ULOm3_A8WrAC:
@@ -146,7 +150,7 @@ papers:
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 244
+    citations: 248
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -154,7 +158,7 @@ papers:
     title: Tumor Immunity Microenvironment-based classifications of bladder cancer for enhancing cancer immunotherapy
     year: '2020'
   Er4NVVcAAAAJ:Y0pCki6q_DkC:
-    citations: 72
+    citations: 73
     title: "Multi\u2010omics consensus ensemble refines the classification of muscle\u2010invasive bladder cancer with stratified prognosis, tumour microenvironment and distinct sensitivity to \u2026"
     year: '2021'
   Er4NVVcAAAAJ:YFjsv_pBGBYC:
@@ -202,7 +206,7 @@ papers:
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 690
+    citations: 691
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -218,7 +222,7 @@ papers:
     title: Macrophages and monocytes mediated activation of oxidative phosphorylation implicated the prognosis and clinical therapeutic strategy of Wilms tumour
     year: '2022'
   Er4NVVcAAAAJ:hC7cP41nSMkC:
-    citations: 7
+    citations: 6
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
@@ -258,7 +262,7 @@ papers:
     title: Metabolism-associated molecular classification of gastric adenocarcinoma
     year: '2022'
   Er4NVVcAAAAJ:mVmsd5A6BfQC:
-    citations: 27
+    citations: 28
     title: Dynamic prognostic model for kidney renal clear cell carcinoma (KIRC) patients by combining clinical and genetic information
     year: '2018'
   Er4NVVcAAAAJ:maZDTaKrznsC:

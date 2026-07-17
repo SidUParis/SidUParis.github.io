@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-17'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 24
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 38
+    citations: 40
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -54,7 +54,7 @@ papers:
     title: 'Racial differences in kidney cancer histology and outcome: A nationwide study from the UroCCR Cohort'
     year: '2025'
   Er4NVVcAAAAJ:GnPB-g6toBAC:
-    citations: 8
+    citations: 9
     title: 'Prospective analysis of mesotheliomas in subjects with BAP1 cancer syndrome: clinical characteristics and epigenetic correlates of disease'
     year: '2025'
   Er4NVVcAAAAJ:HDshCWvjkbEC:
@@ -86,7 +86,7 @@ papers:
     title: Stratification system with dual human endogenous retroviruses for predicting immunotherapy efficacy in metastatic clear-cell renal cell carcinoma
     year: '2025'
   Er4NVVcAAAAJ:M3ejUd6NZC8C:
-    citations: 50
+    citations: 52
     title: 'IILS: Intelligent imaging layout system for automatic imaging report standardization and intra-interdisciplinary clinical workflow optimization'
     year: '2019'
   Er4NVVcAAAAJ:MXK_kJrjxJIC:
@@ -114,7 +114,7 @@ papers:
     title: Profiling of desmoid tumors reveals frequent mutations in chromatin-remodeling genes and identifies an Immune-myogenic subtype
     year: '2026'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 32
+    citations: 31
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -146,11 +146,11 @@ papers:
     title: "Clustering analysis revealed the autophagy classification and potential autophagy regulators' sensitivity of pancreatic cancer based on multi\u2010omics data"
     year: '2023'
   Er4NVVcAAAAJ:W7OEmFMy1HYC:
-    citations: 16
+    citations: 15
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 251
+    citations: 253
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -202,11 +202,11 @@ papers:
     title: Development and validation of radiomics nomograms for preoperative prediction of characteristics in non-small cell lung cancer and circulating tumor cells
     year: '2023'
   Er4NVVcAAAAJ:blknAaTinKkC:
-    citations: 33
+    citations: 32
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 692
+    citations: 695
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -226,7 +226,7 @@ papers:
     title: 'Neo-adjuvant radiation therapy provides a survival advantage in T3-T4 nodal positive gastric and gastroesophageal junction adenocarcinoma: a SEER database analysis'
     year: '2021'
   Er4NVVcAAAAJ:hFOr9nPyWt4C:
-    citations: 15
+    citations: 16
     title: An enhancer demethylator phenotype converged to immune dysfunction and resistance to immune checkpoint inhibitors in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:hMod-77fHWUC:
@@ -234,7 +234,7 @@ papers:
     title: Comprehensive molecular characterization reveals hallmarks and therapeutic insights of collecting duct carcinoma
     year: '2025'
   Er4NVVcAAAAJ:hqOjcs7Dif8C:
-    citations: 208
+    citations: 209
     title: Immune signature-based subtypes of cervical squamous cell carcinoma tightly associated with human papillomavirus type 16 expression, molecular features, and clinical outcome
     year: '2019'
   Er4NVVcAAAAJ:iH-uZ7U-co4C:
@@ -246,11 +246,11 @@ papers:
     title: 'Identifying Modifiable Risk Factors for Colorectal Cancer with MUSE: A Novel Two-Sample Mendelian Randomization Method'
     year: Unknown Year
   Er4NVVcAAAAJ:j3f4tGmQtD8C:
-    citations: 21
+    citations: 22
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 156
+    citations: 157
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:

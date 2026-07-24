@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-24'
 papers:
   Er4NVVcAAAAJ:-f6ydRqryjwC:
     citations: 24
@@ -22,7 +22,7 @@ papers:
     title: 'Clinically Applicable Deep Learning to Automate Pulmonary Scanning: Towards Building Intelligent CT Systems'
     year: '2019'
   Er4NVVcAAAAJ:4JMBOYKVnBMC:
-    citations: 40
+    citations: 41
     title: Multiomics characterization and verification of clear cell renal cell carcinoma molecular subtypes to guide precise chemotherapy and immunotherapy
     year: '2023'
   Er4NVVcAAAAJ:4TOpqqG69KYC:
@@ -97,6 +97,10 @@ papers:
     citations: 1
     title: Enhanced efficacy of ipilimumab plus nivolumab in angiogenic subtypes of metastatic clear-cell renal cell carcinoma
     year: '2025'
+  Er4NVVcAAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: 'Artificial Intelligence and Protein Design: A retrospective study on 20-year emerging trends and core research areas from bibliometric perspectives'
+    year: '2026'
   Er4NVVcAAAAJ:O3NaXMp0MMsC:
     citations: 1
     title: Comprehensive analysis of the causal risk factor from hypertension associated with prognosis and therapeutic response in renal cell carcinoma by multi-omics analysis and validation
@@ -114,7 +118,7 @@ papers:
     title: Profiling of desmoid tumors reveals frequent mutations in chromatin-remodeling genes and identifies an Immune-myogenic subtype
     year: '2026'
   Er4NVVcAAAAJ:RHpTSmoSYBkC:
-    citations: 31
+    citations: 32
     title: Silencing of genes by promoter hypermethylation shapes tumor microenvironment and resistance to immunotherapy in clear-cell renal cell carcinomas
     year: '2023'
   Er4NVVcAAAAJ:Se3iqnhoufwC:
@@ -146,11 +150,11 @@ papers:
     title: "Clustering analysis revealed the autophagy classification and potential autophagy regulators' sensitivity of pancreatic cancer based on multi\u2010omics data"
     year: '2023'
   Er4NVVcAAAAJ:W7OEmFMy1HYC:
-    citations: 15
+    citations: 16
     title: Genetic landscape of indolent and aggressive Kaposi sarcomas
     year: '2022'
   Er4NVVcAAAAJ:WF5omc3nYNoC:
-    citations: 253
+    citations: 255
     title: 'MOVICS: an R package for multi-omics integration and visualization in cancer subtyping'
     year: '2020'
   Er4NVVcAAAAJ:Wp0gIr-vW9MC:
@@ -206,7 +210,7 @@ papers:
     title: 'STAGER checklist: Standardized testing and assessment guidelines for evaluating generative artificial intelligence reliability'
     year: '2024'
   Er4NVVcAAAAJ:d1gkVwhDpl0C:
-    citations: 695
+    citations: 696
     title: Clinical course and outcomes of 344 intensive care patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:dhFuZR0502QC:
@@ -246,11 +250,11 @@ papers:
     title: 'Identifying Modifiable Risk Factors for Colorectal Cancer with MUSE: A Novel Two-Sample Mendelian Randomization Method'
     year: Unknown Year
   Er4NVVcAAAAJ:j3f4tGmQtD8C:
-    citations: 22
+    citations: 23
     title: Delineating the interplay between oncogenic pathways and immunity in anaplastic Wilms tumors
     year: '2023'
   Er4NVVcAAAAJ:kNdYIx-mwKoC:
-    citations: 157
+    citations: 158
     title: Adjuvant corticosteroid therapy for critically ill patients with COVID-19
     year: '2020'
   Er4NVVcAAAAJ:k_IJM867U9cC:
@@ -282,7 +286,7 @@ papers:
     title: Identify clear cell renal cell carcinoma related genes by gene network
     year: '2017'
   Er4NVVcAAAAJ:qxL8FJ1GzNcC:
-    citations: 49
+    citations: 50
     title: Comprehensive integrative profiling of upper tract urothelial carcinomas
     year: '2021'
   Er4NVVcAAAAJ:r0BpntZqJG4C:
